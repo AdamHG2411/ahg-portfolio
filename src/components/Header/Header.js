@@ -1,13 +1,10 @@
 import React, { Component } from 'react';
 import { Link, NavLink } from 'react-router-dom';
+import { GitHub, Linkedin, Twitter } from 'react-feather';
 
 class Header extends Component {
-	constructor(props) {
-		super(props);
-		console.log(this.props);
-	}
-
 	render() {
+		console.log('Home: render');
 		return (
 			<header className="App-Header">
 				<Link to="/">
@@ -18,9 +15,15 @@ class Header extends Component {
 					<NavLink to="/contact">Contact</NavLink>
 				</nav>
 				<div className="App-Social">
-					<a href="https://www.github.com/adamhg2411">gh</a>
-					<a href="https://www.linkedin.com/in/adam-h-grider">li</a>
-					<a href="https://www.twitter.com/ahgrider">tw</a>
+					<a href="https://www.github.com/adamhg2411">
+						<GitHub />
+					</a>
+					<a href="https://www.linkedin.com/in/adam-h-grider">
+						<Linkedin />
+					</a>
+					<a href="https://www.twitter.com/ahgrider">
+						<Twitter />
+					</a>
 				</div>
 			</header>
 		);
