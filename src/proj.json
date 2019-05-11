@@ -1,0 +1,38 @@
+[
+	{
+    "name": "Minesweeper",
+    "id": "minesweeper-ag",
+    "description": "I designed and built a Minesweeper game as my first project for General Assembly's Software Engineering Immersive (SEI) after three weeks learning HTML, CSS, and JavaScript. The mine locations are generated randomly on the user's first click, and all assets were created with a pixel art tool I built with JavaScript for the same program.",
+    "todo": ["Convert to OOP", "Alternate Controls", "Improved Mobile UI", "Fix Custom Sizing"],
+		"url": "https://adamhg2411.github.io/minesweeper-ag",
+    "repo": "https://www.github.com/adamhg2411/minesweeper-ag",
+    "tech": ["Pug", "Sass", "JavaScript", "Parcel"]
+  },
+  {
+    "name": "Musicals API",
+    "id": "musicals-api",
+    "description": "This API was developed primarily to track and showcase upcoming musical performances in Washington, DC. I created it as my second project for General Assembly's Software Engineering Immersive. My DC Musicals project (https://adamhg2411.github.io/dc-musicals) pulls data from this API to display it in a more accessible format.",
+    "todo": ["Add Data","Automate","Add URL Refs"],
+    "url": "https://musicals-api.herokuapp.com/api/performances",
+    "repo": "https://www.github.com/adamhg2411/musicals-api",
+    "tech": ["JavaScript", "Node.js", "Express", "MongoDB", "Mongoose", "Heroku"]
+  },
+  {
+    "name": "DC Musicals",
+    "id": "dc-musicals",
+    "description": "I taught myself React to build this front-end for my Musicals API. The goal of the app is to provide information on upcoming musical performances in the Washington, DC Metro Area, including links for tickets, Wikipedia entries for each show, and a Spotify widget for their soundtracks.",
+    "todo": ["Fix Newsies Bug", "Add Musicals Page", "Mobile Layout"],
+    "url": "https://musicals-api.herokuapp.com/api/performances",
+    "repo": "https://www.github.com/adamhg2411/musicals-api",
+    "tech": ["JavaScript", "React", "CSS"]
+  },
+  {
+    "name": "AHG Portfolio",
+    "id": "ahg-portfolio",
+    "description": "I built this website to showcase my work as a software engineer. It's been through several iterations, but after learning React and React Router, I decided I wanted to start over and build it out with client-side routing.",
+    "todo": ["Build Projects!", "Complete Home/Contact"],
+    "url": "https://www.adamgrider.dev",
+    "repo": "https://www.github.com/adamhg2411/ahg-portfolio",
+    "tech": ["JavaScript", "React", "CSS", "React Router"]
+  }
+]
