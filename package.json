@@ -2,7 +2,7 @@
 	"name": "ahg-portfolio",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://adamhg2411.github.io",
+	"homepage": "https://adamhg2411.github.io/ahg-portfolio",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.6",
