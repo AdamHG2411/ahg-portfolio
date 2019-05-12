@@ -6,6 +6,11 @@
 	color: white;
 }
 
+.App-Wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
 .App a {
 	color: white;
 	text-decoration: none;

@@ -17,32 +17,34 @@ class App extends Component {
 		console.log('App: render');
 		return (
 			<div className="App">
-				<Header />
-				<main>
-					<Switch>
-						<Route
-							exact
-							path="/"
-							render={() => {
-								return <Home />;
-							}}
-						/>
-						<Route
-							exact
-							path="/projects"
-							render={() => {
-								return <Projects />;
-							}}
-						/>
-						<Route
-							exact
-							path="/contact"
-							render={() => {
-								return <Contact />;
-							}}
-						/>
-					</Switch>
-				</main>
+				<div className="App-Wrapper">
+					<Header />
+					<main>
+						<Switch>
+							<Route
+								exact
+								path="/"
+								render={() => {
+									return <Home />;
+								}}
+							/>
+							<Route
+								exact
+								path="/projects"
+								render={() => {
+									return <Projects />;
+								}}
+							/>
+							<Route
+								exact
+								path="/contact"
+								render={() => {
+									return <Contact />;
+								}}
+							/>
+						</Switch>
+					</main>
+				</div>
 			</div>
 		);
 	}
