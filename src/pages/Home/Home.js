@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import './Home.css';
 
 const Adam = require('../../images/adam.jpg');
@@ -29,7 +30,7 @@ class Home extends Component {
 						</p>
 						<p>
 							I am also on the lookout for freelance jobs, so if you have an app or website idea and want
-							to work together, please don't hesitate to <a href="/contact">contact me</a> for a free
+							to work together, please don't hesitate to <Link to="/contact">contact me</Link> for a free
 							quote and/or consultation!
 						</p>
 					</div>
