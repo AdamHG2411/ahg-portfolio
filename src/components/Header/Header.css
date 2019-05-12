@@ -21,6 +21,7 @@
 	display: flex;
 	align-content: center;
 	justify-self: flex-start;
+	flex-wrap: wrap;
 }
 
 .Header-Nav a {
@@ -50,4 +51,39 @@
 
 .Header-Social p:hover {
 	color: skyblue;
+}
+
+@media only screen and (max-width: 800px) {
+	.Header {
+		display: grid;
+		grid-template-rows: auto auto auto;
+		grid-template-columns: 100%;
+		justify-content: start;
+	}
+
+	.Header-Title {
+		grid-row: 1 / 2;
+		grid-column: 1 / 2;
+	}
+
+	.Header-Nav {
+		grid-row: 2 / 3;
+		grid-column: 1 / 2;
+	}
+
+	.Header-Social {
+		grid-row: 3 / 4;
+		grid-column: 1 / 2;
+		display: flex;
+		flex-wrap: wrap;
+		margin: 20px 0;
+	}
+
+	.Header-Social a {
+		margin: 0 20px 0 0;
+	}
+
+	.Header-Social p {
+		padding: 0 5px 0 0;
+	}
 }

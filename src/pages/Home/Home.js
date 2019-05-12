@@ -14,6 +14,7 @@ class Home extends Component {
 			<div>
 				<div className="Home-About">
 					<h2>Welcome!</h2>
+
 					<div className="About-Text">
 						<p>
 							I'm a full-stack software engineer in Arlington, Virginia with a background in international
