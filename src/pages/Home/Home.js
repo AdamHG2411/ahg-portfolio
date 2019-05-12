@@ -29,7 +29,8 @@ class Home extends Component {
 						</p>
 						<p>
 							I am also on the lookout for freelance jobs, so if you have an app or website idea and want
-							to work together, please don't hesitate to contact me for a free quote and/or consultation!
+							to work together, please don't hesitate to <a href="/contact">contact me</a> for a free
+							quote and/or consultation!
 						</p>
 					</div>
 
