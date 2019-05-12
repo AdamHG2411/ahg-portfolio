@@ -18,8 +18,14 @@ class Contact extends Component {
 					</p>
 					<p>
 						I'll be adding a form here to send me an email soon. Until then, please don't hesitate to reach
-						out to me on <a href="https://www.linkedin.com/in/adam-h-grider">LinkedIn</a> or{' '}
-						<a href="https://www.twitter.com/ahgrider">Twitter</a>.
+						out to me on{' '}
+						<a id="LinkedInLink" href="https://www.linkedin.com/in/adam-h-grider">
+							LinkedIn
+						</a>{' '}
+						or{' '}
+						<a id="TwitterLink" href="https://www.twitter.com/ahgrider">
+							Twitter
+						</a>.
 					</p>
 				</div>
 			</div>

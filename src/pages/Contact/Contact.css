@@ -6,3 +6,8 @@
 	padding: 1em;
 	margin: 20px auto;
 }
+
+#LinkedInLink,
+#TwitterLink {
+	color: lightblue;
+}

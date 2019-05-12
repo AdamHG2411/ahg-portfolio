@@ -32,6 +32,10 @@
 	padding: 0 2em 0 0;
 }
 
+#contactLink {
+	color: lightblue;
+}
+
 @media only screen and (max-width: 800px) {
 	.Home-About {
 		grid-template-rows: auto auto auto;
