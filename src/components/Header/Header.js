@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link, NavLink } from 'react-router-dom';
-import { GitHub, Linkedin, Twitter } from 'react-feather';
+import { GitHub, Linkedin, Edit3 } from 'react-feather';
 import './Header.css';
 
 class Header extends Component {
@@ -34,9 +34,9 @@ class Header extends Component {
 						<p>LinkedIn</p>
 						<Linkedin height={20} width={20} />
 					</a>
-					<a href="https://www.twitter.com/ahgrider">
-						<p>Twitter</p>
-						<Twitter height={20} width={20} />
+					<a href="https://medium.com/@AdamGrider">
+						<p>Medium</p>
+						<Edit3 height={20} width={20} />
 					</a>
 				</div>
 			</header>
