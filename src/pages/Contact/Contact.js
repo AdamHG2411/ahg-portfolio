@@ -21,10 +21,6 @@ class Contact extends Component {
 						out to me on{' '}
 						<a id="LinkedInLink" href="https://www.linkedin.com/in/adam-h-grider">
 							LinkedIn
-						</a>{' '}
-						or{' '}
-						<a id="TwitterLink" href="https://www.twitter.com/ahgrider">
-							Twitter
 						</a>.
 					</p>
 				</div>
