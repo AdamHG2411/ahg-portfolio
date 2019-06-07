@@ -38,5 +38,26 @@
 		"repo": "https://www.github.com/adamhg2411/ahg-portfolio",
 		"tech": [ "JavaScript", "React", "CSS", "React Router" ],
 		"published": "2019-05-12"
+	},
+	{
+		"name": "TRACKiT",
+		"id": "trackit",
+		"description": "I collaborated with a fellow developer in General Assembly's Software Engineering Immersive to build a full-stack app supporting event budgeting and planning. Users can add events to their profile and plan out the expenses for each event.",
+		"todo": [ "Real authentication", "D3 Data Visualizations" ],
+		"url": "http://trackit.surge.sh",
+		"repo": "https://github.com/MsAPotter/event-budget",
+		"tech": [
+			"JavaScript",
+			"React",
+			"CSS",
+			"React Router",
+			"MongoDB",
+			"Node.js",
+			"Express",
+			"Mongoose",
+			"Heroku",
+			"Surge"
+		],
+		"published": "2019-05-24"
 	}
 ]
