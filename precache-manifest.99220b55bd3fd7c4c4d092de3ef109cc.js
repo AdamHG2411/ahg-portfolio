@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f104ddb026c4326e3863eb3369bff287",
+    "revision": "ccfa2179b39ff21cf3b1695076949d5c",
     "url": "/ahg-portfolio/index.html"
   },
   {
-    "revision": "1e5d2b1fb937bfc79839",
+    "revision": "7c7f171291967a2f8add",
     "url": "/ahg-portfolio/static/css/main.e1d7d597.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ahg-portfolio/static/js/2.96d1d05c.chunk.js"
   },
   {
-    "revision": "1e5d2b1fb937bfc79839",
-    "url": "/ahg-portfolio/static/js/main.804b18a5.chunk.js"
+    "revision": "7c7f171291967a2f8add",
+    "url": "/ahg-portfolio/static/js/main.a5c235ce.chunk.js"
   },
   {
     "revision": "feab96eaeb3c1fb60131",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "40d2892327ca974c4f65399424e833ae",
     "url": "/ahg-portfolio/static/media/musicals-api.40d28923.png"
+  },
+  {
+    "revision": "43d3ae99c38cd7960e4157d94c5b2101",
+    "url": "/ahg-portfolio/static/media/trackit.43d3ae99.png"
   }
 ]);
