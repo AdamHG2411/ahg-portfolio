@@ -46,18 +46,7 @@
 		"todo": [ "Real authentication", "D3 Data Visualizations" ],
 		"url": "http://trackit.surge.sh",
 		"repo": "https://github.com/MsAPotter/event-budget",
-		"tech": [
-			"JavaScript",
-			"React",
-			"CSS",
-			"React Router",
-			"MongoDB",
-			"Node.js",
-			"Express",
-			"Mongoose",
-			"Heroku",
-			"Surge"
-		],
+		"tech": [ "JavaScript", "React", "CSS", "MongoDB", "Node.js" ],
 		"published": "2019-05-24"
 	}
 ]
