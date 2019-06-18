@@ -24,9 +24,8 @@ class Home extends Component {
 							websites tailored to meet your needs and achieve your desired impacts.
 						</p>
 						<p>
-							I am currently completing the Software Engineering Immersive program at General Assembly and
-							seeking full-time employment as a full-stack or front-end software engineer beginning in
-							mid-June.
+							I recently completed the Software Engineering Immersive program at General Assembly and I am
+							seeking full-time employment as a full-stack or front-end software engineer.
 						</p>
 						<p>
 							I am also on the lookout for freelance jobs, so if you have an app or website idea and want
