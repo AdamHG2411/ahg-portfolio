@@ -24,8 +24,8 @@
 		"id": "dc-musicals",
 		"description": "I taught myself React to build this front-end for my Musicals API. The goal of the app is to provide information on upcoming musical performances in the Washington, DC Metro Area, including links for tickets, Wikipedia entries for each show, and a Spotify widget for their soundtracks.",
 		"todo": [ "Fix Newsies Bug", "Add Musicals Page", "Mobile Layout" ],
-		"url": "https://musicals-api.herokuapp.com/api/performances",
-		"repo": "https://www.github.com/adamhg2411/musicals-api",
+		"url": "https://adamhg2411.github.io/dc-musicals",
+		"repo": "https://www.github.com/adamhg2411/dc-musicals",
 		"tech": [ "JavaScript", "React", "CSS" ],
 		"published": "2019-05-03"
 	},
