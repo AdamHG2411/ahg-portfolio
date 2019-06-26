@@ -27,11 +27,11 @@ class Projects extends Component {
 					<div className="Project-Info">
 						<h2 className="Project-Name">{project.name}</h2>
 						<div className="Project-Links">
-							<a href={project.url}>
+							<a href={project.url} target="_blank">
 								<Globe height={20} width={20} />
 								<p>Deployed</p>
 							</a>
-							<a href={project.repo}>
+							<a href={project.repo} target="_blank">
 								<Code height={20} width={20} />
 								<p>Code Repo</p>
 							</a>
