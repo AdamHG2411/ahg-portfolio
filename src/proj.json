@@ -44,7 +44,7 @@
 		"id": "dnd-characters",
 		"description": "I created a character creator and tracker for Dungeons & Dragons. The first version features race, class, and background selection, simulated rolling for base stats, and hit point tracking.",
 		"todo": [ "User accounts", "Leveling up", "Notepad" ],
-		"url": "http://dnd-characters.surge.sh",
+		"url": "http://dnd-characters-ag.surge.sh",
 		"repo": "https://github.com/adamhg2411/dnd-characters",
 		"tech": [ "JavaScript", "React", "CSS", "MongoDB", "Node.js" ],
 		"published": "2019-05-12"
