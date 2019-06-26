@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "237faa700c5b285866c7ec5fd96fe70f",
+    "revision": "535cbf62d0b292c06da846f29c9879a0",
     "url": "/ahg-portfolio/index.html"
   },
   {
-    "revision": "32c362f4e1ecec1ef2fa",
+    "revision": "d9e850c9b8a0d422711c",
     "url": "/ahg-portfolio/static/css/main.e1d7d597.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ahg-portfolio/static/js/2.96d1d05c.chunk.js"
   },
   {
-    "revision": "32c362f4e1ecec1ef2fa",
-    "url": "/ahg-portfolio/static/js/main.2fd6dc46.chunk.js"
+    "revision": "d9e850c9b8a0d422711c",
+    "url": "/ahg-portfolio/static/js/main.68052e0c.chunk.js"
   },
   {
     "revision": "feab96eaeb3c1fb60131",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a2b878bf75a6a6f293fce36d876c9b7e",
     "url": "/ahg-portfolio/static/media/dc-musicals.a2b878bf.png"
+  },
+  {
+    "revision": "c14aff770366ae7d74faaebbcc5dd662",
+    "url": "/ahg-portfolio/static/media/dnd-characters.c14aff77.png"
   },
   {
     "revision": "968faf830d73a692a883fdf74c42005d",
