@@ -26,15 +26,15 @@ class Header extends Component {
 					</nav>
 				</div>
 				<div className="Header-Social">
-					<a href="https://www.github.com/adamhg2411" target="_blank">
+					<a href="https://www.github.com/adamhg2411" target="_blank" rel="noopener noreferrer">
 						<p>GitHub</p>
 						<GitHub height={20} width={20} />
 					</a>
-					<a href="https://www.linkedin.com/in/adam-h-grider" target="_blank">
+					<a href="https://www.linkedin.com/in/adam-h-grider" target="_blank" rel="noopener noreferrer">
 						<p>LinkedIn</p>
 						<Linkedin height={20} width={20} />
 					</a>
-					<a href="https://medium.com/@AdamGrider" target="_blank">
+					<a href="https://medium.com/@AdamGrider" target="_blank" rel="noopener noreferrer">
 						<p>Medium</p>
 						<Edit3 height={20} width={20} />
 					</a>

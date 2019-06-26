@@ -19,7 +19,12 @@ class Contact extends Component {
 					<p>
 						I'll be adding a form here to send me an email soon. Until then, please don't hesitate to reach
 						out to me on{' '}
-						<a id="LinkedInLink" href="https://www.linkedin.com/in/adam-h-grider" target="_blank">
+						<a
+							id="LinkedInLink"
+							href="https://www.linkedin.com/in/adam-h-grider"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
 							LinkedIn
 						</a>.
 					</p>
