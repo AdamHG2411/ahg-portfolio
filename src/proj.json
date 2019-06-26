@@ -30,16 +30,6 @@
 		"published": "2019-05-03"
 	},
 	{
-		"name": "AHG Portfolio",
-		"id": "ahg-portfolio",
-		"description": "I built this website to showcase my work as a software engineer. It's been through several iterations, but after learning React and React Router, I decided I wanted to start over and build it out with client-side routing.",
-		"todo": [ "Build Projects!", "Complete Home/Contact" ],
-		"url": "https://www.adamgrider.dev",
-		"repo": "https://www.github.com/adamhg2411/ahg-portfolio",
-		"tech": [ "JavaScript", "React", "CSS", "React Router" ],
-		"published": "2019-05-12"
-	},
-	{
 		"name": "TRACKiT",
 		"id": "trackit",
 		"description": "I collaborated with a fellow developer in General Assembly's Software Engineering Immersive to build a full-stack app supporting event budgeting and planning. Users can add events to their profile and plan out the expenses for each event.",
@@ -48,5 +38,15 @@
 		"repo": "https://github.com/MsAPotter/event-budget",
 		"tech": [ "JavaScript", "React", "CSS", "MongoDB", "Node.js" ],
 		"published": "2019-05-24"
+	},
+	{
+		"name": "D&D Character Tracker",
+		"id": "dnd-characters",
+		"description": "I created a character creator and tracker for Dungeons & Dragons. The first version features race, class, and background selection, simulated rolling for base stats, and hit point tracking.",
+		"todo": [ "User accounts", "Leveling up", "Notepad" ],
+		"url": "http://dnd-characters.surge.sh",
+		"repo": "https://github.com/adamhg2411/dnd-characters",
+		"tech": [ "JavaScript", "React", "CSS", "MongoDB", "Node.js" ],
+		"published": "2019-05-12"
 	}
 ]
